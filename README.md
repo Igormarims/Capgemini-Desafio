@@ -7,16 +7,19 @@ Desafio da Academia 2022
 
 ## Questão1 
  desafio da escada a classe onde contém a solução do problema se chama Questao1
- 
- ![image](https://user-images.githubusercontent.com/90639040/154876366-e08852d1-b68c-45ba-b067-aa8b14c6f7dc.png)
+ ![image](https://user-images.githubusercontent.com/90639040/154877183-978abf75-74b4-47a0-b085-4112ec8d9060.png)
+
  ## Questão2
- desafio da senha a classe onde contém a solução do problema se chama Questao2
- ![image](https://user-images.githubusercontent.com/90639040/154876522-e2e5e16d-4c58-42f7-b5f9-1b25040da63c.png)
+ ![image](https://user-images.githubusercontent.com/90639040/154877141-fde56d7d-22ff-46bb-8793-705f77fff0d8.png)
+
+
+
 w
  
  ## Questão3 
   desafio da substring  a classe onde contém a solução do problema se chama Questao3
-  ![image](https://user-images.githubusercontent.com/90639040/154876558-744ffa72-597f-4f42-8964-b0e947ea8504.png)
+ ![image](https://user-images.githubusercontent.com/90639040/154877080-10e8e681-be07-4a61-9f7a-83b8517cdc98.png)
+
 
  #### Desafio muito confunso de entender o que pedi acredito que erraram na formulação do problema não tem lógica os exemplos citados mesmo assim fim oq entendi.
     
