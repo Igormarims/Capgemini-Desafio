@@ -6,7 +6,7 @@ Desafio da Academia 2022
 ## Todo o desafio está na linguagem de programação java
 
 ## Questão1 
- desafio da escada a classe onde contém a solução do problema se chama Questao1
+ #### desafio da escada a classe onde contém a solução do problema se chama Questao1
  1 inicia a variável numeroDigitado ela contém o tamanho da escada e da base dela, 
 2 cria uma lista para armazenar escada as strings impressas,
 3 laço para repetir o processe de contagem dos caracters da escada,
@@ -16,6 +16,7 @@ Desafio da Academia 2022
  ![image](https://user-images.githubusercontent.com/90639040/154877183-978abf75-74b4-47a0-b085-4112ec8d9060.png)
 
  ## Questão2
+ #### desafio da senha a classe onde contém a solução do problema se chama Questao2
  1 chama  a o método cadastroSenha,
 2 criando o método,
 3 entrada
@@ -30,6 +31,7 @@ Desafio da Academia 2022
 
  
  ## Questão3
+ #### desafio da substring a classe onde contém a solução do problema se chama Questao3
  1 scaner para a entrada da palavra,
 2 imprime no console a frase a baixo,
 3 impreme no console a entrada e as posibilidades,
